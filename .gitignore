@@ -1,0 +1,8 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+
+home = C:\Users\okeke\AppData\Local\Programs\Python\Python313
+include-system-site-packages = false
+version = 3.13.0
+executable = C:\Users\okeke\AppData\Local\Programs\Python\Python313\python.exe
+command = C:\Users\okeke\AppData\Local\Programs\Python\Python313\python.exe -m venv C:\Users\okeke\venv
