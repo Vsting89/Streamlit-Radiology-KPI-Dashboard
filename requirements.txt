@@ -1,7 +1,18 @@
+# Core
 streamlit
-plotly
 pandas
 numpy
+
+# Visualization
+plotly
 matplotlib
+seaborn
+
+# Excel/CSV support
 openpyxl
+
+# Time series & stats
 statsmodels
+scikit-learn
+python-dateutil
+
